@@ -2,3 +2,4 @@
 
 basher install hotsum92/md-link
 basher install hotsum92/bash-today
+basher install hotsum92/bash-eigiro
