@@ -4,8 +4,10 @@ basher install hotsum92/md-link
 basher install hotsum92/bash-today
 basher install hotsum92/bash-eigiro
 basher install hotsum92/bash-plot
+basher install hotsum92/go-stat
 
 basher upgrade hotsum92/md-link
 basher upgrade hotsum92/bash-today
 basher upgrade hotsum92/bash-eigiro
 basher upgrade hotsum92/bash-plot
+basher upgrade hotsum92/go-stat
